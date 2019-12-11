@@ -149,7 +149,7 @@ public class Calculation {
 
         //Exercise 157
         int sum2 = 0;
-        for(int i = -999; i<=999; i++){
+        for(int i = 0; i<=999; i++){
             if(i!=0){
                 if(i%5!=0){
                     sum2+=i;
